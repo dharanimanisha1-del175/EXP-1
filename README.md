@@ -71,7 +71,8 @@ b.  KCL:<img width="1463" height="1600" alt="7" src="https://github.com/user-att
 
 Tabulation:
 
-a.   KVL:<img width="1428" height="1600" alt="3" src="https://github.com/user-attachments/assets/15e1ab2c-8d88-4e9d-9f00-70d77320d25a" />
+a.   KVL:<img width="1428" height="1600" alt="3" src="https://github.com/user-attachments/assets/2c76fd37-c191-4c4f-b1ad-1c96f0768f9e" />
+
 
 
  
